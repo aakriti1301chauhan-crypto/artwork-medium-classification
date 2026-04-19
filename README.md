@@ -33,3 +33,7 @@ This project focuses on classifying the medium of artworks using machine learnin
 - TF-IDF (NLP)
 
 💡 This project demonstrates a complete machine learning pipeline from data preprocessing to model evaluation.
+## Results
+Logistic Regression: 14.25%
+Random Forest: 96.37%
+XGBoost: 96%
